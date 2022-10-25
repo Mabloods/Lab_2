@@ -16,7 +16,6 @@ int main()
 	z2 = tan(2*a) + 1 / cos(2*a);
 	cout << "z1= " << z1 << endl;
 	cout << "z2= " << z2 << endl;
-
-
+    // changes developer
 	return 0;
 }
