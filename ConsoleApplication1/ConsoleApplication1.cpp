@@ -9,6 +9,7 @@ using namespace std;
 
 int main()
 {
+	// init variables
 	double z1, z2, a;
 	// Enter a number
 	cout << "a = ? "; cin >> a;
