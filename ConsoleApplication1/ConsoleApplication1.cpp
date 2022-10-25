@@ -11,7 +11,6 @@ int main()
 {
 	// init variables
 	double z1, z2, a;
-	// Enter a number
 	cout << "a = ? "; cin >> a;
 	z1 = (cos(a) + sin(a)) / (cos(a) - sin(a));
 	z2 = tan(2*a) + 1 / cos(2*a);
